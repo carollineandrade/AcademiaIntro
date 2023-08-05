@@ -3,7 +3,7 @@
 valor de $numMes esteja fora do intervalo entre 1 e 12, exibir a mensagem “Mês inválido”
 $numMes = 8; */
 $numMes = 8;
-switch (8) {
+switch ($numMes) {
     case 1:
         $result  = 'O mês é Janeiro';
         break;

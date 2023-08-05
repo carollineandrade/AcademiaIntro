@@ -46,4 +46,3 @@ switch ($numMes) {
 }
 
 echo $result;
-
